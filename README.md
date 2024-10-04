@@ -1,5 +1,4 @@
-## Hi there 👋
-# Hey,  I'm  Moiez Turab <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"> [![](https://visitcount.itsvg.in/api?id=moiezturab&icon=0&color=0)](https://visitcount.itsvg.in)
+## Hey,  I'm  Moiez Turab <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"> [![](https://visitcount.itsvg.in/api?id=moiezturab&icon=0&color=0)](https://visitcount.itsvg.in)
  A versatile Full Stack Engineer with 5+ years of experience delivering innovative software solutions. I specialize in building scalable, secure, and high-performance applications.
 ## :globe_with_meridians: Socials:   
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/moiezturab)
